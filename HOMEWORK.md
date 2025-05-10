@@ -51,7 +51,7 @@ https://www.ide.go.jp/Japanese/IDEsquare/Eyes/2025/ISQ202520_006.html
 
 ベースラインは明らかに古い情報に基づく情報
 
-### <details><summary>ここ開くと 5 Q&A(ベースラインの答え)s</summary>
+<details><summary>ここ開くと 5 Q&A(ベースラインの答え)s</summary>
 
 ## Q1: アメリカ４７代大統領選はいつ開催され、誰と誰が最終候補で争い、誰が勝利したか？
 アメリカ47代大統領選は**2024年11月5日**に開催されました。

@@ -278,4 +278,5 @@ https://www.ide.go.jp/Japanese/IDEsquare/Eyes/2025/ISQ202520_006.html
 * **貿易の多様化と国際的な競
 
 </details>
+
 # 発展的な改善案(任意)
